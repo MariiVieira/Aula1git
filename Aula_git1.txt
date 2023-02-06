@@ -1,0 +1,105 @@
+GIT CONFIG
+
+md 2BI_MARILARY
+cd 2BI_MARILARY
+config --global user.name "marilary"
+config --global user.name "mariana.chagas14@etec.sp.gov.br"
+
+
+Microsoft Windows [versão 10.0.22000.1455]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\etechas>d:> md 2BI_MariLary
+
+D:\>DIR
+ O volume na unidade D é DADOS
+ O Número de Série do Volume é 4670-5AFA
+
+ Pasta de D:\
+
+06/02/2023  14:24    <DIR>          2ai
+06/02/2023  08:04    <DIR>          3ai
+06/02/2023  08:03    <DIR>          ISOs
+06/02/2023  08:05    <DIR>          Projetos
+               0 arquivo(s)              0 bytes
+               4 pasta(s)   133.670.494.208 bytes disponíveis
+
+D:\>
+D:\>MD 2BI_MARILARY
+
+D:\>CD 2BI_MARILARY
+
+D:\2BI_MARILARY>git confg --global user.name "MariLary"
+git: 'confg' is not a git command. See 'git --help'.
+
+The most similar command is
+        config
+
+D:\2BI_MARILARY>CD 2BI_MARILARY
+O sistema não pode encontrar o caminho especificado.
+
+D:\2BI_MARILARY>git config --global user.name "marilary"
+
+D:\2BI_MARILARY>git config --global user.name "mariana.chagas14@etec.sp.gov.br"
+
+D:\2BI_MARILARY>md Aula 1
+
+D:\2BI_MARILARY>cd Aula 1
+O sistema não pode encontrar o caminho especificado.
+
+D:\2BI_MARILARY>cd aula 1
+O sistema não pode encontrar o caminho especificado.
+
+D:\2BI_MARILARY>md aula1
+
+D:\2BI_MARILARY>cd aula1
+
+D:\2BI_MARILARY\aula1>CD 2BI_MARILARY
+O sistema não pode encontrar o caminho especificado.
+
+D:\2BI_MARILARY\aula1>
+Microsoft Windows [versão 10.0.22000.1455]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\etechas>d:> md 2BI_MariLary
+
+D:\>DIR
+ O volume na unidade D é DADOS
+ O Número de Série do Volume é 4670-5AFA
+
+ Pasta de D:\
+
+06/02/2023  14:24    <DIR>          2ai
+06/02/2023  08:04    <DIR>          3ai
+06/02/2023  08:03    <DIR>          ISOs
+06/02/2023  08:05    <DIR>          Projetos
+               0 arquivo(s)              0 bytes
+               4 pasta(s)   133.670.494.208 bytes disponíveis
+
+D:\>
+D:\>MD 2BI_MARILARY
+
+D:\>CD 2BI_MARILARY
+
+D:\2BI_MARILARY>git confg --global user.name "MariLary"
+git: 'confg' is not a git command. See 'git --help'.
+
+The most similar command is
+        config
+
+D:\2BI_MARILARY>CD 2BI_MARILARY
+O sistema não pode encontrar o caminho especificado.
+
+D:\2BI_MARILARY>git config --global user.name "marilary"
+
+D:\2BI_MARILARY>git config --global user.name "mariana.chagas14@etec.sp.gov.br"
+
+D:\2BI_MARILARY>md aula1
+
+D:\2BI_MARILARY>cd aula1
+
+D:\2BI_MARILARY\aula1>git init
+Initialized empty Git repository in D:/2BI_MARILARY/aula1/.git/
+
+git status
+
